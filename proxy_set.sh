@@ -1,5 +1,5 @@
-Proxy_IP='proxy.ncbs.res.in'
-Proxy_port='3128'
+Proxy_IP=''
+Proxy_port=''
 Proxy_username=''
 Proxy_password=''
 
